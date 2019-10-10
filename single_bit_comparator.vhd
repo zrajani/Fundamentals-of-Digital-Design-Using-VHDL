@@ -1,4 +1,4 @@
--- Code submitted by: ZAIN RAJANI (C0752681)
+-- Code submitted by: ZAIN RAJANI
 -- Code Date: July 02, 2019
 -- Code Description: Design a one bit comparator
 -- Coding Style: Behavioural Modelling
