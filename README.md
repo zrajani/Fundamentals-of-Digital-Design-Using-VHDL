@@ -5,4 +5,5 @@ Fundamentals Concepts of Digital Logic design is programmed using the above stat
 1. Various Gates (OR, AND and NOT Gate)
 2. Latches (SR, JK and D) 
 3. Shift Register Universal
-4. 
+4. Parity Checker 
+5. 
