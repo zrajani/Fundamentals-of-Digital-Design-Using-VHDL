@@ -6,4 +6,8 @@ Fundamentals Concepts of Digital Logic design is programmed using the above stat
 2. Latches (SR, JK and D) 
 3. Shift Register Universal
 4. Parity Checker 
-5. 
+5. Multiplexer
+6. Demultiplexer
+7. Parallel Adder 8 bit
+8. Priority Encoder
+9. XOR Gates
