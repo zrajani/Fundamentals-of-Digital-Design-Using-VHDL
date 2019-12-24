@@ -1,4 +1,4 @@
--- Code submitted by: ZAIN RAJANI (C0752681)
+-- Code submitted by: ZAIN RAJANI
 -- Code Date: July 22, 2019
 -- Code Description: Design 1:8 Demultiplexer
 -- Coding Style: Structural Modelling
