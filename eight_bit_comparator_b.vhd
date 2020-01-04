@@ -1,4 +1,4 @@
--- Code submitted by: 
+-- Code submitted by: Zain Rajani
 -- Code Date: July 03, 2019
 -- Code Description: Design 8 bit comparator using 4 bit comparator
 -- Coding Style: Structural Modelling
