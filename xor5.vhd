@@ -1,4 +1,4 @@
-//Implementation of 5 inputs XOR GATE
+--Implementation of 5 inputs XOR GATE
 
 library IEEE;
 use IEEE.std_logic_1164.all;
