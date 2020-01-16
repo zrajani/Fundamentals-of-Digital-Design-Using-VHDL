@@ -35,7 +35,7 @@ end component;
 -- Component declared ends here
 
 -- Internal wire declaration (i.e. Signal)
--- These signals can be declared as vector type also depends on programmer
+-- These signals can be declared as vector type
 signal S0,S1,S2,nS0,nS1,nS2,D0,D1,D2,D3,D4,D5,D6,D7 : std_logic;
 
 -- End of signal declaration
