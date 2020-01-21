@@ -1,3 +1,6 @@
+-- Author: Zain Rajani
+-- Description: Verifying if the output and SOP yeilds the same output
+
 --Declaring Libraries always compulsory
 library ieee;
 use ieee.std_logic_1164.all;
