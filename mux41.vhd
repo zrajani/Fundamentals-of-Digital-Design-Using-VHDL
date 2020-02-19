@@ -15,6 +15,7 @@ port (A,B,C,D,S0,S1 : in std_logic; -- Input Lines (A,B,C,D) and Select Lines (S
 end mux41;
 -- End of declaring ports
 
+
 -- Description of the function/logic of 4:1 Multiplexer (Architecture Description)
 architecture mux41_gates of mux41 is 
 
